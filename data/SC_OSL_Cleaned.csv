@@ -1,0 +1,235 @@
+Layer,Age (ka),Error (ka),Max Error Allowed,>10%?,Reference
+Co,37.1,1.5,3.71,N,Wadley (2006)
+Bu,36.7,1.7,3.67,N,Wadley (2006)
+LBMOD,50.4,1.8,5.04,N,Wadley (2006)
+PB,49,2,4.9,N,Wadley (2006)
+"Ore, Ore2",49.7,1.8,4.97,N,Wadley (2006)
+"RD, RSp",50.3,2.1,5.03,N,Wadley (2006)
+OMODBL,50.2,1.7,5.02,N,Wadley (2006)
+RSp,48.2,1.7,4.82,N,Wadley (2006)
+SPCA,61.3,2,6.13,N,Wadley (2006)
+BSp2,56.2,1.9,5.62,N,Wadley (2006)
+PB,64.1,2.9,6.41,N,Wadley (2006)
+G1,61.6,1.9,6.16,N,Wadley (2006)
+Ch2,59.4,2.4,5.94,N,Wadley (2006)
+Y1,59.4,2.3,5.94,N,Wadley (2006)
+MOD,49.7,1.8,4.97,N,Herries (2006)
+OMOD,50.3,2.1,5.03,N,Herries (2006)
+OMOD2,50.2,1.7,5.02,N,Herries (2006)
+RSp,48.4,1.7,4.84,N,Herries (2006)
+SPCA,61.3,2,6.13,N,Herries (2006)
+SS,56.2,1.9,5.62,N,Herries (2006)
+P,64.1,2.9,6.41,N,Herries (2006)
+Ch2,61.6,1.9,6.16,N,Herries (2006)
+B/Gmix,59.4,2.3,5.94,N,Herries (2006)
+Bu,35.2,2,3.52,N,Wadley (2005)
+OMOD,51.8,1.8,5.18,N,Wadley and Jacobs (2004)
+RSp,53.4,3.2,5.34,N,Wadley and Jacobs (2004)
+BSp2,56.7,2.3,5.67,N,Wadley and Jacobs (2004)
+Or,61.5,2.2,6.15,N,Wadley and Jacobs (2004)
+SS,57,2.3,5.7,N,Wadley and Jacobs (2004)
+P,59.6,2.2,5.96,N,Wadley and Jacobs (2004)
+Ch2,60.8,2.3,6.08,N,Wadley and Jacobs (2004)
+Y1,59,1.9,5.9,N,Wadley and Jacobs (2004)
+B/Gmix,58.1,2.5,5.81,N,Wadley and Jacobs (2004)
+PGS,64.7,1.9,6.47,N,Lennox and Wadley (2019)
+PGS2,64.7,1.9,6.47,N,Lennox and Wadley (2019)
+PGS3,64.7,1.9,6.47,N,Lennox and Wadley (2019)
+RGS,70.5,2,7.05,N,Lennox and Wadley (2019)
+BS6,77.2,2.1,7.72,N,Lennox and Wadley (2019)
+BS7,77.2,2.1,7.72,N,Lennox and Wadley (2019)
+Bu (combined as Ore2),35.2,1.8,3.52,N,Wadley (2004)
+OMOD,51.8,2.1,5.18,N,Wadley (2004)
+RSp-YSp,53.4,3.2,5.34,N,Wadley (2004)
+BSp-BSp2,56.7,2.3,5.67,N,Wadley (2004)
+"SS, Che, Eb",57,2.3,5.7,N,Wadley (2004)
+BG/Mix; BL2; BL3; Bor; Ymix,58.1,2.5,5.81,N,Wadley (2004)
+Y1,59,1.9,5.9,N,Wadley (2004)
+"Ma, My, BO, P, BP, OP, Iv, BM",59.6,2.2,5.96,N,Wadley (2004)
+G1; Ch2 (Combines as Ch2),60.8,2.3,6.08,N,Wadley (2004)
+Or,61.5,2.2,6.15,N,Wadley (2004)
+RSp,46,1.9,4.6,N,Hall et al. (2014)
+OMOD,46.6,2.3,4.66,N,Hall et al. (2014)
+OMODBL,47.6,1.9,4.76,N,Hall et al. (2014)
+MOD,49.1,2.5,4.91,N,Hall et al. (2014)
+"PB, Ore, Ore2, LBMOD, Cad, Pu",49.9,2.5,4.99,N,Hall et al. (2014)
+"BSP, BSP2",57.6,2.1,5.76,N,Hall et al. (2014)
+"B/Mix, BL2, BL3, Bor, Ymix, YA1, YA2, Br under YA2",58.2,2.4,5.82,N,Hall et al. (2014)
+"G1, Ch2",58.3,2,5.83,N,Hall et al. (2014)
+Y1,58.6,2.1,5.86,N,Hall et al. (2014)
+"P, OP",59,2.2,5.9,N,Hall et al. (2014)
+"Mi, SS",59.6,2.3,5.96,N,Hall et al. (2014)
+GR,61.7,1.5,6.17,N,Hall et al. (2014)
+GR2,63.8,2.5,6.38,N,Hall et al. (2014)
+PGS,64.7,1.9,6.47,N,Hall et al. (2014)
+PGS3-PGS (specifically PGS),64.7,2.3,6.47,N,Lombard et al. (2019) citing Jacobs et al. (2008a)
+RGS,70.5,2.4,7.05,N,Lombard et al. (2019) citing Jacobs et al. (2008a)
+LGB,72.5,2.5,7.25,N,Lombard et al. (2019) citing Jacobs et al. (2008a)
+LGB4-LGB2 (specifically LGB2),73.2,2.7,7.32,N,Lombard et al. (2019) citing Jacobs et al. (2008a)
+BS10-BS (specifically BS),77.3,2.7,7.73,N,Lombard et al. (2019) citing Jacobs et al. (2008a)
+GR2,61.7,1.5,6.17,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+GS2,63.8,2.5,6.38,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+PGS,64.7,1.9,6.47,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+RGS,70.5,2,7.05,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+LBG,72.5,2,7.25,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+LBG2,73.2,2.3,7.32,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+BS,77.2,2.1,7.72,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+Co,38,2.6,3.8,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+Bu,37.6,2.4,3.76,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+LBMOD,48,2.4,4.8,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+MOD,49.1,2.1,4.91,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+OMOD,46.6,2.3,4.66,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+OMODBL,47.6,1.9,4.76,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+Rsp,46,1.9,4.6,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+RD,49.4,2.3,4.94,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+BSp,57.6,2.1,5.76,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+SS,59.6,2.3,5.96,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+P,56.7,2.1,5.67,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+Ch2,58.3,2,5.83,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+Y1,58.6,2.1,5.86,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+B/Gmix,58.2,2.4,5.82,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+GR2,61.7,2,6.17,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+GS2,63.8,2.8,6.38,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+PGS,64.7,2.3,6.47,N,"Wadley (2015) citing Jacobs et al. (2008a, 2008b)"
+RGS,70.5,2,7.05,N,Wadley (2015) citing Jacobs et al. (2008a)
+LBG,72.5,2,7.25,N,Wadley (2015) citing Jacobs et al. (2008a)
+LBD2,73.2,2.3,7.32,N,Wadley (2015) citing Jacobs et al. (2008a)
+BS,77.3,2.2,7.73,N,Wadley (2015) citing Jacobs et al. (2008a)
+PGS,64.7,2.3,6.47,N,Riga et al. (2018) citing Jacobs et al. (2008a) / Wadley (2015)
+BS5/BS,77.3,2.7,7.73,N,Riga et al. (2018) citing Jacobs et al. (2008a)
+GR2 (Hearth B),61.7,2,6.17,N,d'Errico et al. (2022) citing Jacobs et al.
+PGS2,64.7,2.3,6.47,N,d'Errico et al. (2022) citing Jacobs et al.
+PGS3,64.7,2.3,6.47,N,d'Errico et al. (2022) citing Jacobs et al.
+RGS,70.5,2.4,7.05,N,d'Errico et al. (2022) citing Jacobs et al.
+LBG (including under hearth),72.5,2.5,7.25,N,d'Errico et al. (2022) citing Jacobs et al.
+BS/BS2 (Hearth 1),77.2,2.7,7.72,N,d'Errico et al. (2022) citing Jacobs et al.
+Post-HP (Weighted Mean),58.5,1.4,5.85,N,"Lennox et al. (2017) citing Jacobs, Roberts et al. (2008); Jacobs, Wintle et al. (2008)"
+BSP,57.6,2.1,5.76,N,"Lennox et al. (2017) citing Jacobs, Roberts et al. (2008); Jacobs, Wintle et al. (2008)"
+B/G Mix,58.2,2.4,5.82,N,"Lennox et al. (2017) citing Jacobs, Roberts et al. (2008); Jacobs, Wintle et al. (2008); Wadley (2015)"
+SS,59.6,2.3,5.96,N,"Lennox et al. (2017) citing Jacobs, Roberts et al. (2008); Jacobs, Wintle et al. (2008)"
+GR2,61.7,2,6.17,N,"Lennox et al. (2017) citing Jacobs, Roberts et al. (2008); Jacobs, Wintle et al. (2008); Wadley (2015)"
+Final MSA,38,2.6,3.8,N,Schmid et al. (2019)
+Late MSA,48,2.1,4.8,N,Schmid et al. (2019)
+Sibudan,56.7,1.7,5.67,N,Schmid et al. (2019)
+HP,61.7,1.5,6.17,N,Schmid et al. (2019)
+HP,63.8,2.5,6.38,N,Schmid et al. (2019)
+HP,64.7,1.9,6.47,N,Schmid et al. (2019)
+SB,70.5,2,7.05,N,Schmid et al. (2019)
+Pre-SB (Wadley) / LBG,72.5,2,7.25,N,Schmid et al. (2019)
+Pre-SB (Wadley) / LBG,73.2,2.3,7.32,N,Schmid et al. (2019)
+Pre-SB (Wadley) / BS,77.2,2.1,7.72,N,Schmid et al. (2019)
+GR2,61.7,2,6.17,N,de la Peña (2015) citing Wadley & Jacobs (2006) and Jacobs & Roberts
+GS,63.8,2.5,6.38,N,de la Peña (2015) citing Jacobs & Roberts (2008)
+Final MSA,38.6,1.9,3.86,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Late MSA,47.7,1.4,4.77,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Post-HP MSA,58.5,1.4,5.85,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+HP,61.7,2,6.17,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+HP,63.8,2.8,6.38,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+HP,64.7,2.3,6.47,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+SB,70.5,2.3,7.05,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Pre-SB,72.5,2.5,7.25,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Pre-SB,73.2,2.7,7.32,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Pre-SB,77.3,2.7,7.73,N,Clark (2013) citing Wadley & Jacobs (2006); Jacobs et al. (2008)
+Bu,35.2,1.8,3.52,N,Villa et al. (2005)
+OMOD,51.8,2.1,5.18,N,Villa et al. (2005)
+RSP,53.4,3.2,5.34,N,Villa et al. (2005)
+BSP,56.7,2.3,5.67,N,Villa et al. (2005)
+SS,57,2.3,5.7,N,Villa et al. (2005)
+B/G Mix,58.1,2.5,5.81,N,Villa et al. (2005)
+Y1,59,1.9,5.9,N,Villa et al. (2005)
+P,59.6,2.2,5.96,N,Villa et al. (2005)
+Ch 2,60.8,2.3,6.08,N,Villa et al. (2005)
+Or,61.5,2.2,6.15,N,Villa et al. (2005)
+BSP,57.6,2.1,5.76,N,Will and Conard (2016)
+POX,59,2.2,5.9,N,Will and Conard (2016)
+SS,59.6,2.3,5.96,N,Will and Conard (2016)
+Sibudan,58.4,1.4,5.84,N,Will and Conard (2016)
+CH2,58.3,2,5.83,N,Will and Conard (2016)
+Y1,58.6,2.1,5.86,N,Will and Conard (2016)
+BGMIX,58.2,2.4,5.82,N,Will and Conard (2016)
+PGS,64.7,2.3,6.47,N,Soriano et al. (2015) citing Jacobs et al. (2008)
+RGS,70.5,2.4,7.05,N,Soriano et al. (2015) citing Jacobs et al. (2008)
+RGS,70.5,2,7.05,N,Way & Hiscock (2021) citing Jacobs et al. (2008a)
+LBG,72.5,2,7.25,N,Way & Hiscock (2021) citing Jacobs et al. (2008a)
+LBG2,73.2,2.3,7.32,N,Way & Hiscock (2021) citing Jacobs et al. (2008a)
+BS1,77.2,2.1,7.72,N,Way & Hiscock (2021) citing Jacobs et al. (2008a)
+SIB11,38,2.6,3.8,N,Jacobs et al. (2008)
+SIB10,39.1,2.5,3.91,N,Jacobs et al. (2008)
+SIB14,49.1,2.1,4.91,N,Jacobs et al. (2008)
+SIB22,49.9,2.5,4.99,N,Jacobs et al. (2008)
+SIB7,46,1.9,4.6,N,Jacobs et al. (2008)
+SIB8,46.6,2.3,4.66,N,Jacobs et al. (2008)
+SIB13,47.6,1.9,4.76,N,Jacobs et al. (2008)
+SIB6,57.6,2.1,5.76,N,Jacobs et al. (2008)
+SIB4,59.6,2.3,5.96,N,Jacobs et al. (2008)
+SIB9,59,2.2,5.9,N,Jacobs et al. (2008)
+SIB3,58.3,2,5.83,N,Jacobs et al. (2008)
+SIB22,58.6,2.1,5.86,N,Jacobs et al. (2008)
+SIB1,58.2,2.4,5.82,N,Jacobs et al. (2008)
+PGS2,64.7,1.9,6.47,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+GS,63.8,2.5,6.38,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+BP,59.6,2.3,5.96,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+SS,59.6,2.3,5.96,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+B/G Mix,58.2,2.4,5.82,N,"Wadley (2012) citing Jacobs et al. (2008a, b)"
+MOD,49.1,2.1,4.91,N,Lennox et al. (2015) citing Jacobs et al. (2008)
+Co,37.1,1.5,3.71,N,Goldberg et al. (2009)
+Bu,36.7,1.7,3.67,N,Goldberg et al. (2009)
+"LBMOD, MC",50.4,1.8,5.04,N,Goldberg et al. (2009)
+RD,49,2,4.9,N,Goldberg et al. (2009)
+MOD,49.7,1.8,4.97,N,Goldberg et al. (2009)
+OMOD,50.2,1.7,5.02,N,Goldberg et al. (2009)
+RSp,48.4,1.7,4.84,N,Goldberg et al. (2009)
+BSp,61.3,2,6.13,N,Goldberg et al. (2009)
+Or,61.5,2.2,6.15,N,Goldberg et al. (2009)
+SS,56.2,1.9,5.62,N,Goldberg et al. (2009)
+P,64.1,2.9,6.41,N,Goldberg et al. (2009)
+Ch2,61.6,1.9,6.16,N,Goldberg et al. (2009)
+Y1,59.4,2.4,5.94,N,Goldberg et al. (2009)
+B/Gmix,59.4,2.3,5.94,N,Goldberg et al. (2009)
+BS6,77.2,2.1,7.72,N,Wadley et al. (2011)
+LBG,72.5,2,7.25,N,Wadley et al. (2011)
+PGS,64.7,1.9,6.47,N,Wadley et al. (2011)
+Br. Under YA2(i),61.7,1.5,6.17,N,Wadley et al. (2011)
+Br. Under YA2(i),58.2,2.4,5.82,N,Wadley et al. (2011)
+Co,37.1,1.5,3.71,N,Sievers (2006)
+Bu,36.7,1.7,3.67,N,Sievers (2006)
+MOD,49.7,1.8,4.97,N,Sievers (2006)
+OMOD,50.3,2.1,5.03,N,Sievers (2006)
+OMOD2; BLMOD; GMOD; BMOD; RB,50.2,1.7,5.02,N,Sievers (2006)
+Cad; Pu; RSp; RD; YSp,48.4,1.7,4.84,N,Sievers (2006)
+Cad; Pu; RSp; RD; YSp,49,2,4.9,N,Sievers (2006)
+BSp; BSp2,61.3,2,6.13,N,Sievers (2006)
+SS; Eb; Ma; MY; BO; P; Iv; BM; Su; Ch,56.2,1,5.62,N,Sievers (2006)
+SS; Eb; Ma; MY; BO; P; Iv; BM; Su; Ch,64.1,2.9,6.41,N,Sievers (2006)
+G1; Ch2; Y1; B/G Mix; Bor; YA; YA2,61.6,1.9,6.16,N,Sievers (2006)
+G1; Ch2; Y1; B/G Mix; Bor; YA; YA2,59.4,2.4,5.94,N,Sievers (2006)
+G1; Ch2; Y1; B/G Mix; Bor; YA; YA2,59.4,2.3,5.94,N,Sievers (2006)
+BSp,56.7,2.3,5.67,N,Allot (2004)
+RSp,53.4,3.2,5.34,N,Allot (2004)
+final Middle Stone Age,38,2.6,3.8,N,Lombard et al. (2012) cited Wadley (2005)
+Sibudu,46,1.9,4.6,N,"Lombard et al. (2012) citing Villa et al. (2005); Cochrane (2006); Wadley (2006); Jacobs et al. (2008a,b); Wadley (2012); Mohapi (2012)"
+Howieson's Poort,61.7,1.5,6.17,N,Lombard et al. (2012) citing Backwell et al. (2008); Jacobs et al. (2008b); Wadley (2008); Wadley & Mohapi (2008); d'Errico et al. (in press)
+Still Bay,70.5,2,7.05,N,Lombard et al. (2012) citing Wadley (2007); Jacobs et al. (2008b)
+pre-Still Bay,72.5,2,7.25,N,Lombard et al. (2012) citing d'Errico et al. (in press)
+Final MSA,38,2.6,3.8,N,Hodgskiss (2013)
+Late MSA,46.6,2.3,4.66,N,Hodgskiss (2013)
+Late MSA,49.9,2.3,4.99,N,Hodgskiss (2013)
+Post-Howiesons Poort,57.6,2.1,5.76,N,Hodgskiss (2013)
+Post-Howiesons Poort,59,2.2,5.9,N,Hodgskiss (2013)
+Howiesons Poort,61.7,1.5,6.17,N,Hodgskiss (2013)
+Howiesons Poort,64.7,1.9,6.47,N,Hodgskiss (2013)
+Still Bay,70.5,2,7.05,N,Hodgskiss (2013)
+Pre-Still Bay,72.5,2,7.25,N,Hodgskiss (2013)
+Pre-Still Bay,77.5,2.1,7.75,N,Hodgskiss (2013)
+HP,60,1.5,6,N,Will & Conard (2020)
+HP,65,2.5,6.5,N,Will & Conard (2020)
+Later MSA (Sample SIB-10),37.6,2.2,3.76,N,"Jacobs et al. (2008, Fig. 2)"
+Later MSA (Sample SIB-22),48,2.1,4.8,N,"Jacobs et al. (2008, Fig. 2)"
+Post-Howiesons Poort (Sample SIB-9),56.7,1.7,5.67,N,"Jacobs et al. (2008, Fig. 2)"
+Howiesons Poort (Sample SIB-15),61.7,1.5,6.17,N,"Jacobs et al. (2008, Fig. 2)"
+Howiesons Poort (Sample SIB-17),63.8,2.5,6.38,N,"Jacobs et al. (2008, Fig. 2)"
+Howiesons Poort (Sample SIB-19),64.7,1.9,6.47,N,"Jacobs et al. (2008, Fig. 2)"
+Still Bay (Sample SIB-20),70.5,2,7.05,N,"Jacobs et al. (2008, Fig. 2)"
+Pre-Still Bay (Sample SIB-21),72.5,2,7.25,N,"Jacobs et al. (2008, Fig. 2)"
+Pre-Still Bay (Sample SIB-24),73.2,2.3,7.32,N,"Jacobs et al. (2008, Fig. 2)"
+Pre-Still Bay (Sample SIB-23),77.2,2.1,7.72,N,"Jacobs et al. (2008, Fig. 2)"
