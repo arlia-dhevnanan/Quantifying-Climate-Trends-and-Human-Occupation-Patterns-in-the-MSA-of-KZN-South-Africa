@@ -3,7 +3,7 @@
 This repository contains the R scripts and analytical pipelines developed for my Master's thesis investigating how Middle Stone Age (MSA) communities in KwaZulu-Natal responded to climate and environmental change between 50 and 20 ka.
 
 ## Project Overview
-The primary aim of this research is to explore two contrasting evolutionary models—the Variability Selection Hypothesis (VSH) and demographic stability models—to assess whether prehistoric occupation patterns and technological shifts correlated with climate stress or were facilitated by the security of ecological refugia. By moving away from broad continental averages, this project integrates finer-resolution, localized palaeoclimatic conditions with chronological occupation estimates.
+The primary aim of this research is to explore two contrasting evolutionary models - the Variability Selection Hypothesis (VSH) and demographic stability models - to assess whether prehistoric occupation patterns and technological shifts correlated with climate stress or were facilitated by the security of ecological refugia. By moving away from broad continental averages, this project integrates finer-resolution, localized palaeoclimatic conditions with chronological occupation estimates.
 
 ## Analytical Pipeline
 The scripts in this repository execute the following geoarchaeological workflow:
